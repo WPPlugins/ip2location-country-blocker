@@ -1,0 +1,4 @@
+.dashicons-admin-ip2location{background-image:url("../images/icon.png");background-repeat:no-repeat;background-position:50% 50%}
+#ip2location-download-progress{display:none}
+.loading-admin-ip2location{background-image:url("../images/loading.gif");background-repeat:no-repeat;background-position:50% 50%;display:inline-block;width:24px;height:24px;transform:translateY(+25%)}
+.chosen{width:480px}
